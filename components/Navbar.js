@@ -25,7 +25,7 @@ const Navbar = () => (
                 font-color: white;
                 margin-right: 20px;
             }
-
+    
             ul li a{
                 color: white;
                 text-decoration: none;
