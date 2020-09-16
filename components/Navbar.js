@@ -21,7 +21,7 @@ const Navbar = () => (
             }
 
             ul li{
-                font-size: 18px;
+                font-size: 19px;
                 font-color: white;
                 margin-right: 20px;
             }
